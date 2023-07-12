@@ -1,3 +1,9 @@
-# Web Dev Mongodb Expree Angular Nodejs
-This is first repository for IT Deptt.
-This is my First Commit
+# Project 3 :Web Development using MEAN Stack
+             MongoDB 
+             
+             Express
+             
+             Angular
+             
+             Nodejs
+           
