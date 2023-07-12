@@ -1,9 +1,9 @@
-# Project 3 :Web Development using MEAN Stack
-             MongoDB 
+# Project 3 :Web Development using Full Stack (MEAN Stack)
+             MongoDB : Database
              
-             Express
+             Express : Node.js Web Framework
              
-             Angular
+             Angular : Client-Side JavaScript Framework
              
-             Nodejs
+             Nodejs : JavaScript Web Server
            
